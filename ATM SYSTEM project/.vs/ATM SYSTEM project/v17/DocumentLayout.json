@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FATHI MERIEM\\source\\repos\\ATM SYSTEM project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{053796DE-6796-4E38-A190-CA36F7ADC067}|ATM SYSTEM project\\ATM SYSTEM project.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\ATM SYSTEM project\\ATM SYSTEM project\\ATM SYSTEM project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{053796DE-6796-4E38-A190-CA36F7ADC067}|ATM SYSTEM project\\ATM SYSTEM project.vcxproj|solutionrelative:ATM SYSTEM project\\ATM SYSTEM project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D754BC-93B6-45B5-BFF6-15874724AF4C}|..\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATM SYSTEM project.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\ATM SYSTEM project\\ATM SYSTEM project\\ATM SYSTEM project.cpp",
+              "RelativeDocumentMoniker": "ATM SYSTEM project\\ATM SYSTEM project.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\ATM SYSTEM project\\ATM SYSTEM project\\ATM SYSTEM project.cpp",
+              "RelativeToolTip": "ATM SYSTEM project\\ATM SYSTEM project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T12:17:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project-Bank-1.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.cpp",
+              "RelativeDocumentMoniker": "..\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.cpp",
+              "RelativeToolTip": "..\\course 7\\Project-Bank-1\\Project-Bank-1\\Project-Bank-1.cpp",
+              "ViewState": "AgIAAPgAAAAAAAAAAAApwP0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T12:18:02.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

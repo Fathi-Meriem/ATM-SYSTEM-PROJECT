@@ -1,0 +1,3 @@
+﻿  ATM SYSTEM project.cpp
+C:\Users\FATHI MERIEM\source\repos\ATM SYSTEM project\ATM SYSTEM project\ATM SYSTEM project.cpp(30,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATM SYSTEM project.vcxproj -> C:\Users\FATHI MERIEM\source\repos\ATM SYSTEM project\ATM SYSTEM project\x64\Debug\ATM SYSTEM project.exe
